@@ -267,3 +267,13 @@ Le terme "crédit social" est souvent mal compris ou exagéré dans le discours 
 ## Conclusion :
 Le système de crédit social en Chine est une réalité, mais il est en constante évolution, et son application varie en fonction des régions et des technologies utilisées. Les préoccupations éthiques concernant la surveillance et le respect de la vie privée sont bien fondées, mais il est également important de distinguer les faits réels des rumeurs et de comprendre que le système n'est pas nécessairement aussi envahissant que certains rapports pourraient le laisser entendre.
 
+---
+
+## Crédit social en Chine
+
+---
+
+## Système de surveillance en Chine
+
+
+
