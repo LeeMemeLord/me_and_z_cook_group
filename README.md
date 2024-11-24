@@ -269,11 +269,10 @@ Le système de crédit social en Chine est une réalité, mais il est en constan
 
 ---
 
-## Crédit social en Chine
+## Ou chercher les liens
+1. **Crédit social en Chine
+2. **Système de surveillance en Chine
 
 ---
-
-## Système de surveillance en Chine
-
 
 
