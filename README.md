@@ -195,5 +195,31 @@ Les villes intelligentes en Chine incarnent une vision futuriste et pragmatique 
 - En Chine, ces technologies sont parfois utilisées pour surveiller les opposants politiques ou les minorités, soulevant des questions sur la légitimité de leur usage.
 - Les données collectées peuvent être exploitées à des fins commerciales ou pour manipuler l’opinion publique.
 
+---
+
+# Lien entre le Cas Particulier et une Problématique Plus Large
+
+## Exemple : Shenzhen et ses Technologies de Surveillance
+L'exemple de Shenzhen, avec son utilisation de technologies de surveillance massives, illustre une problématique plus générale :  
+**« Jusqu’où peut-on utiliser la technologie pour surveiller les citoyens sans violer leurs droits fondamentaux ? »**
+
+### Lien avec la problématique générale
+L’adoption de technologies de surveillance à Shenzhen soulève des questions cruciales sur la manière dont les gouvernements peuvent utiliser la technologie pour assurer la sécurité publique tout en respectant la vie privée et les droits fondamentaux des citoyens.
+
+---
+
+## Enjeux Généraux du Sujet
+
+### 1. Enjeux Éthiques
+- **La surveillance massive est-elle moralement justifiable ?**
+  - Peut-on accepter que des technologies soient déployées pour surveiller tous les citoyens en permanence au nom de la sécurité ?
+  - Jusqu’à quel point la réduction de la criminalité ou l’optimisation des services publics justifie-t-elle la suppression de la vie privée ?
+
+### 2. Enjeux Politiques
+- **Les gouvernements utilisent-ils ces outils pour le bien commun ou pour asseoir un contrôle ?**
+  - Ces technologies sont-elles vraiment utilisées pour protéger la population ou pour renforcer l’autorité de l’État ?
+  - L'utilisation de ces technologies pour surveiller les opposants politiques et les minorités soulève des questions sur leur légitimité et leur abus.
+
+
 
 
