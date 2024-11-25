@@ -173,7 +173,7 @@ Les villes intelligentes en Chine incarnent une vision futuriste et pragmatique 
   - Les groupes de défense des droits humains dénoncent une société de plus en plus surveillée.
 - **Adoption par d’autres villes :**
   - Le modèle de Shenzhen a été reproduit dans d’autres villes chinoises et exporté à l’étranger, notamment dans des pays d’Afrique.
-
+  -L'Angleterre utilise également cette technologie pour renforcer la sécurité et améliorer la gestion urbaine. Environ un cinquième des caméras de vidéosurveillance dans le monde se trouvent au Royaume-        Uni.
 ---
 
 ## B. Lien avec une Problématique Plus Large
