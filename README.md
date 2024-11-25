@@ -39,6 +39,7 @@ Une ville intelligente repose sur :
 1. **Des capteurs** : Petits dispositifs qui collectent des informations (par exemple, le nombre de voitures sur une route).
 2. **Des ordinateurs** : Pour analyser ces informations et prendre des décisions.
 3. **Des applications** : Pour permettre aux habitants de participer et de s’informer facilement.
+4. **Des cameras: Pour suivre la progrèsion de la ville et surveiller si tt va
 
 ---
 
